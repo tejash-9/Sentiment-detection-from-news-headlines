@@ -1,2 +1,2 @@
-Stock Market Prediction using Numerical and Textual Anaysis!!!
+Stock price Prediction using Numerical and Textual Anaysis!!!
 
